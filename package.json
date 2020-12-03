@@ -5,7 +5,5 @@
     "unity": "2019.3",
     "displayName": "kDecals",
     "dependencies": {
-        "com.kink3d.pooling": "0.1.0",
-        "com.unity.render-pipelines.universal": "7.x.x"
     }
 }
